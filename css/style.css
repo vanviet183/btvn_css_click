@@ -11,7 +11,7 @@ html {
 
 #container::before {
     content: "";
-    background: #040404 url('/image/background.jpg') top center no-repeat;
+    background: #040404 url('image/background.jpg') top center no-repeat;
     background-size: cover;
     position: fixed;
     left: 0;
